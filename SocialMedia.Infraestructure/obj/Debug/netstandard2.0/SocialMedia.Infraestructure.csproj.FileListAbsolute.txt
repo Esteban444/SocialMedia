@@ -1,0 +1,12 @@
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.deps.json
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.dll
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Infraestructure.pdb
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csprojAssemblyReference.cache
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.AssemblyInfoInputs.cache
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.AssemblyInfo.cs
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.csproj.CopyComplete
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.dll
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Infraestructure\obj\Debug\netstandard2.0\SocialMedia.Infraestructure.pdb

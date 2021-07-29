@@ -1,0 +1,9 @@
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.deps.json
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfoInputs.cache
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.AssemblyInfo.cs
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.dll
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.pdb
+D:\PROGRAMACION\SumaryYou\SocialMedia\SocialMedia.Core\obj\Debug\netstandard2.0\SocialMedia.Core.csprojAssemblyReference.cache
